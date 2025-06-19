@@ -1,7 +1,7 @@
 # Phthalate–Androgen Receptor Interaction Analysis
 
 This repository contains the computational workflow and datasets for the study:  
-**"In Silico Characterization of Phthalate Interactions with the Human Androgen Receptor (hAR)"**, which investigates the endocrine-disrupting potential of phthalate esters using molecular docking, molecular dynamics (MD), MM/PBSA free energy calculations, and non-covalent interaction analysis.
+**"In Silico Exploration of the Endocrine-Disrupting Potential of Phthalate Esters through Structural Interaction with the Human Androgen Receptor"**, which investigates the endocrine-disrupting potential of phthalate esters using molecular docking, molecular dynamics (MD), MM/PBSA free energy calculations, and non-covalent interaction analysis.
 
 ## 📋 Project Description
 
@@ -40,5 +40,19 @@ Phthalate esters (PAEs) are environmental pollutants that may disrupt androgen r
    - PCA & FEL
    - B-factor and non-covalent interaction visualization (PLIP)
 
-## 📁 Repository Structure
+## 📌 Requirements
 
+- Python ≥ 3.8  
+- GROMACS ≥ 2023  
+- RDKit, NumPy, Pandas, Matplotlib, SciPy  
+- gmx_MMPBSA, AmberTools  
+- UCSF ChimeraX (for visualization)
+
+##🧑‍🔬 Authors
+
+Haruna Barazorda
+Computational Chemistry and Biology Lab, Catholic University of Santa María (UCSM), Peru
+
+##📜 Acknowledgments
+
+This work was supported by the internal research project of the Catholic University of Santa María (UCSM), which enabled the execution of the computational analyses and research presented in this study.
