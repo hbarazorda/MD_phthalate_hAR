@@ -50,8 +50,9 @@ Phthalate esters (PAEs) are environmental pollutants that may disrupt androgen r
 
 ##🧑‍🔬 Authors
 
-Haruna Barazorda
-Computational Chemistry and Biology Lab, Catholic University of Santa María (UCSM), Peru
+Haruna L. Barazorda-Ccahuana
+hbarazorda@ucsm.edu.pe
+Computational Chemistry and Biology Group, Catholic University of Santa María (UCSM), Peru
 
 ##📜 Acknowledgments
 
